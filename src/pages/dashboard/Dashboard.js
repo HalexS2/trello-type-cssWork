@@ -13,6 +13,7 @@ import Card from "./Card";
       height: '100vh',
       backgroundColor: theme.colors.primary,
       color: theme.colors.text,
+      justifyContent: 'space-around',
       padding: 8,
     }
     }))
